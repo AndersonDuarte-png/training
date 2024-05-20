@@ -1,2 +1,1 @@
-# training
-training
+https://judge.beecrowd.com/pt
